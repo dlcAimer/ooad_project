@@ -1,0 +1,12 @@
+Task1,OnceLifeCycle
+Task2,OnceLifeCycle
+Task3,OnceLifeCycle
+Task4,OnceLifeCycle
+Task5,TotalCountDownLifeCycle
+Task6,TotalCountDownLifeCycle
+Task7,TotalCountDownLifeCycle
+Task8,TotalCountDownLifeCycle
+Task9,DailyCountDownLifeCycle
+Task10,DailyCountDownLifeCycle
+Task11,DailyCountDownLifeCycle
+Task12,DailyCountDownLifeCycle

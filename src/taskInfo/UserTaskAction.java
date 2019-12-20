@@ -8,11 +8,11 @@ import java.util.Date;
 public class UserTaskAction {
     private Date actionTime;
 
-    UserTaskAction(Date actionTime){
+    public UserTaskAction(Date actionTime){
         this.actionTime = actionTime;
     }
 
-    UserTaskAction(){
+    public UserTaskAction(){
         this.actionTime = new Date();
     }
 

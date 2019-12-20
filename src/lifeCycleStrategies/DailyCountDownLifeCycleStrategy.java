@@ -9,7 +9,7 @@ public class DailyCountDownLifeCycleStrategy extends TaskLifeCycleStrategy{
 
     private int count;
 
-    DailyCountDownLifeCycleStrategy(int initialCount){
+    public DailyCountDownLifeCycleStrategy(int initialCount){
         this.count = initialCount;
     }
 

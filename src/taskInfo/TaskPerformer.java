@@ -6,7 +6,7 @@ package taskInfo;
 public class TaskPerformer {
     private String name;
 
-    TaskPerformer(String initialName){
+    public TaskPerformer(String initialName){
         this.name = initialName;
     }
 
